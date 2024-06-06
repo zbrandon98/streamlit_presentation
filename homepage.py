@@ -32,8 +32,13 @@ st.write(
 
 st.write("___")
 
-st.subheader("Architecture")
+st.subheader("Pipeline Architecture")
 st.image("./EcoCAR Architecture Diagram.png")
+
+st.write("___")
+
+st.subheader("Streamlit Architecture")
+st.image("./streamlitArchitecture.svg")
 
 st.write("___")
 
