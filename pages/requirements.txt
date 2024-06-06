@@ -1,0 +1,11 @@
+streamlit==1.32.0
+numpy==1.26.0
+pandas==2.2.2
+matplotlib==3.8.4
+
+# If version is not given then the most recent version is used
+seaborn 
+plotly.express
+altair
+duckdb
+openpyxl
